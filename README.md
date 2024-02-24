@@ -1,4 +1,4 @@
-#Age Claculator
+# Age Claculator
 
 🚀 After learning React JS basics , I was interested to get my hands dirty with this project
 
